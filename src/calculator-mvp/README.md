@@ -2,7 +2,7 @@
 
 MVC模式解决分离用户界面和业务逻辑的问题，但是还有一个重要的问题没有解决： 控制器是界面相关的，没有办法为控制器编写单元测试程序。为了解决上面的问题，MVP模式应运而生。MVP是Model-View-Presenter简称。
 
-![mvc](https://github.com/zlgopen/awtk-mvvm/blob/master/docs/images/mvp.png?raw=true)
+![mvc](../../images/mvp.png?raw=true)
 
 模型(Model)。模型还是MVC中的模型，这里不再赘述。
 

@@ -10,7 +10,7 @@
 
 呈现逻辑Presenter去哪里了？呈现逻辑从一行行代码变成了一条条数据绑定和命令绑定的规则，对规则的处理和解释成了MVVM框架或公用库，可以在多个项目中共享。
 
-![](https://github.com/zlgopen/awtk-mvvm/blob/master/docs/images/mvvm.png?raw=true)
+![](../../images/mvvm.png?raw=true)
 
 MVVM模式有下列好处：
 
